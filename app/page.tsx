@@ -22,7 +22,7 @@ export default function IndexPage() {
           rel="noreferrer"
           className={buttonVariants()}
         >
-          Documentation
+          Documentation xxx
         </Link>
         <Link
           target="_blank"
